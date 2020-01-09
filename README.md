@@ -9,4 +9,4 @@ FLUSH PRIVILEGES;
 docker run -it --rm mysql mysql -h172.23.5.60 -ufooUser -p
 create database demoprj;
 use demoprj;
-create table demo(id int(10), string varcexit;har(20));```
+create table demo(id int(10), string varchar(20));
